@@ -17,8 +17,8 @@ A 2D piano visualizer built in Unity. This app lets you visualize MIDI notes as 
 
 ## 🚧 Features Planned
 - Particle effects with glow on note impact  
-- Custom sound fonts  
-- Visual themes & color styles  
+- Visual themes & color styles like See Music
+- Midi Keyboard support
 
 ---
 
